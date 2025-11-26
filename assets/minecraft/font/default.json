@@ -91,7 +91,7 @@
       "height": 16,
       "chars": ["\ueef4"]
     },
-	{
+    {
       "type": "space",
       "advances": {
         "\uE999": -8
@@ -183,438 +183,536 @@
       "chars": ["\uEe99"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/ocean.png",
-      "ascent":0,
-      "height":14,
-      "chars":[ "\u2C30" ]
+      "type": "bitmap",
+      "file": "minecraft:font/ocean.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C30"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/deep_ocean.png",
-      "ascent":6,
-      "height":28,
-      "chars":[ "\u2C31" ]
+      "type": "bitmap",
+      "file": "minecraft:font/deep_ocean.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C31"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/warm_ocean.png",
-      "ascent":6,
-      "height":28,
-      "chars":[ "\u2C32" ]
+      "type": "bitmap",
+      "file": "minecraft:font/warm_ocean.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C32"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/lukewarm_ocean.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C33"]
+      "type": "bitmap",
+      "file": "minecraft:font/lukewarm_ocean.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C33"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/deep_lukewarm_ocean.png",
-      "ascent":18,
-      "height":50,
-      "chars":["\u2C34"]
+      "type": "bitmap",
+      "file": "minecraft:font/deep_lukewarm_ocean.png",
+      "ascent": 18,
+      "height": 50,
+      "chars": ["\u2C34"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/cold_ocean.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C35"]
+      "type": "bitmap",
+      "file": "minecraft:font/cold_ocean.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C35"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/deep_cold_ocean.png",
-      "ascent":18,
-      "height":50,
-      "chars":["\u2C36"]
+      "type": "bitmap",
+      "file": "minecraft:font/deep_cold_ocean.png",
+      "ascent": 18,
+      "height": 50,
+      "chars": ["\u2C36"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/frozen_ocean.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C37"]
+      "type": "bitmap",
+      "file": "minecraft:font/frozen_ocean.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C37"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/deep_frozen_ocean.png",
-      "ascent":18,
-      "height":50,
-      "chars":["\u2C38"]
+      "type": "bitmap",
+      "file": "minecraft:font/deep_frozen_ocean.png",
+      "ascent": 18,
+      "height": 50,
+      "chars": ["\u2C38"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/mushroom_fields.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C39"]
+      "type": "bitmap",
+      "file": "minecraft:font/mushroom_fields.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C39"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/jagged_peaks.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C40"]
+      "type": "bitmap",
+      "file": "minecraft:font/jagged_peaks.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C40"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/frozen_peaks.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C41"]
+      "type": "bitmap",
+      "file": "minecraft:font/frozen_peaks.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C41"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/stony_peaks.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C42"]
+      "type": "bitmap",
+      "file": "minecraft:font/stony_peaks.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C42"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/meadow.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C43"]
+      "type": "bitmap",
+      "file": "minecraft:font/meadow.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C43"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/cherry_grove.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C44"]
+      "type": "bitmap",
+      "file": "minecraft:font/cherry_grove.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C44"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/grove.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C45"]
+      "type": "bitmap",
+      "file": "minecraft:font/grove.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C45"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/snowy_slopes.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C46"]
+      "type": "bitmap",
+      "file": "minecraft:font/snowy_slopes.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C46"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/windswept_hills.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C47"]
+      "type": "bitmap",
+      "file": "minecraft:font/windswept_hills.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C47"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/windswept_gravelly_hills.png",
-      "ascent":18,
-      "height":50,
-      "chars":["\u2C48"]
+      "type": "bitmap",
+      "file": "minecraft:font/windswept_gravelly_hills.png",
+      "ascent": 18,
+      "height": 50,
+      "chars": ["\u2C48"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/windswept_forest.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C49"]
+      "type": "bitmap",
+      "file": "minecraft:font/windswept_forest.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C49"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/forest.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C50"]
+      "type": "bitmap",
+      "file": "minecraft:font/forest.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C50"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/flower_forest.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C51"]
+      "type": "bitmap",
+      "file": "minecraft:font/flower_forest.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C51"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/taiga.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C52"]
+      "type": "bitmap",
+      "file": "minecraft:font/taiga.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C52"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/old_growth_pine_taiga.png",
-      "ascent":20,
-      "height":56,
-      "chars":["\u2C53"]
+      "type": "bitmap",
+      "file": "minecraft:font/old_growth_pine_taiga.png",
+      "ascent": 20,
+      "height": 56,
+      "chars": ["\u2C53"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/old_growth_spruce_taiga.png",
-      "ascent":20,
-      "height":56,
-      "chars":["\u2C54"]
+      "type": "bitmap",
+      "file": "minecraft:font/old_growth_spruce_taiga.png",
+      "ascent": 20,
+      "height": 56,
+      "chars": ["\u2C54"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/snowy_taiga.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C55"]
+      "type": "bitmap",
+      "file": "minecraft:font/snowy_taiga.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C55"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/birch_forest.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C56"]
+      "type": "bitmap",
+      "file": "minecraft:font/birch_forest.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C56"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/old_growth_birch_forest.png",
-      "ascent":20,
-      "height":56,
-      "chars":["\u2C57"]
+      "type": "bitmap",
+      "file": "minecraft:font/old_growth_birch_forest.png",
+      "ascent": 20,
+      "height": 56,
+      "chars": ["\u2C57"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/dark_forest.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C58"]
+      "type": "bitmap",
+      "file": "minecraft:font/dark_forest.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C58"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/jungle.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C59"]
+      "type": "bitmap",
+      "file": "minecraft:font/jungle.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C59"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/sparse_jungle.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C60"]
+      "type": "bitmap",
+      "file": "minecraft:font/sparse_jungle.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C60"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/bamboo_jungle.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C61"]
+      "type": "bitmap",
+      "file": "minecraft:font/bamboo_jungle.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C61"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/river.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C62"]
+      "type": "bitmap",
+      "file": "minecraft:font/river.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C62"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/frozen_river.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C63"]
+      "type": "bitmap",
+      "file": "minecraft:font/frozen_river.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C63"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/swamp.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C64"]
+      "type": "bitmap",
+      "file": "minecraft:font/swamp.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C64"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/mangrove_swamp.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C65"]
+      "type": "bitmap",
+      "file": "minecraft:font/mangrove_swamp.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C65"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/beach.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C66"]
+      "type": "bitmap",
+      "file": "minecraft:font/beach.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C66"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/snowy_beach.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C67"]
+      "type": "bitmap",
+      "file": "minecraft:font/snowy_beach.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C67"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/stony_shore.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C68"]
+      "type": "bitmap",
+      "file": "minecraft:font/stony_shore.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C68"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/plains.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C69"]
+      "type": "bitmap",
+      "file": "minecraft:font/plains.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C69"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/sunflower_plains.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C70"]
+      "type": "bitmap",
+      "file": "minecraft:font/sunflower_plains.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C70"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/snowy_plains.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C71"]
+      "type": "bitmap",
+      "file": "minecraft:font/snowy_plains.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C71"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/ice_spikes.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C72"]
+      "type": "bitmap",
+      "file": "minecraft:font/ice_spikes.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C72"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/desert.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C73"]
+      "type": "bitmap",
+      "file": "minecraft:font/desert.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C73"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/savanna.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C74"]
+      "type": "bitmap",
+      "file": "minecraft:font/savanna.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C74"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/savanna_plateau.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C75"]
+      "type": "bitmap",
+      "file": "minecraft:font/savanna_plateau.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C75"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/windswept_savanna.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C76"]
+      "type": "bitmap",
+      "file": "minecraft:font/windswept_savanna.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C76"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/badlands.png",
-      "ascent":0,
-      "height":14,
-      "chars":["\u2C77"]
+      "type": "bitmap",
+      "file": "minecraft:font/badlands.png",
+      "ascent": 0,
+      "height": 14,
+      "chars": ["\u2C77"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/wooded_badlands.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C78"]
+      "type": "bitmap",
+      "file": "minecraft:font/wooded_badlands.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C78"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/eroded_badlands.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C79"]
+      "type": "bitmap",
+      "file": "minecraft:font/eroded_badlands.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C79"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/deep_dark.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C80"]
+      "type": "bitmap",
+      "file": "minecraft:font/deep_dark.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C80"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/dripstone_caves.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C81"]
+      "type": "bitmap",
+      "file": "minecraft:font/dripstone_caves.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C81"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/lush_caves.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C82"]
+      "type": "bitmap",
+      "file": "minecraft:font/lush_caves.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C82"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/nether_wastes.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C83"]
+      "type": "bitmap",
+      "file": "minecraft:font/nether_wastes.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C83"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/soul_sand_valley.png",
-      "ascent":18,
-      "height":50,
-      "chars":["\u2C84"]
+      "type": "bitmap",
+      "file": "minecraft:font/soul_sand_valley.png",
+      "ascent": 18,
+      "height": 50,
+      "chars": ["\u2C84"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/crimson_forest.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C85"]
+      "type": "bitmap",
+      "file": "minecraft:font/crimson_forest.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C85"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/warped_forest.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C86"]
+      "type": "bitmap",
+      "file": "minecraft:font/warped_forest.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C86"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/basalt_deltas.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C87"]
+      "type": "bitmap",
+      "file": "minecraft:font/basalt_deltas.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C87"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/small_end_islands.png",
-      "ascent":18,
-      "height":50,
-      "chars":["\u2C88"]
+      "type": "bitmap",
+      "file": "minecraft:font/small_end_islands.png",
+      "ascent": 18,
+      "height": 50,
+      "chars": ["\u2C88"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/end_midlands.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C89"]
+      "type": "bitmap",
+      "file": "minecraft:font/end_midlands.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C89"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/end_highlands.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C90"]
+      "type": "bitmap",
+      "file": "minecraft:font/end_highlands.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C90"]
     },
     {
-      "type":"bitmap",
-      "file":"minecraft:font/end_barrens.png",
-      "ascent":6,
-      "height":28,
-      "chars":["\u2C91"]
+      "type": "bitmap",
+      "file": "minecraft:font/end_barrens.png",
+      "ascent": 6,
+      "height": 28,
+      "chars": ["\u2C91"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:misc/redstone.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\ueff5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/raid.png",
+      "ascent": 13,
+      "height": 48,
+      "chars": ["\uE903"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ferrous.png",
+      "ascent": 13,
+      "height": 52,
+      "chars": ["\uE904"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/frostmaw.png",
+      "ascent": 13,
+      "height": 56,
+      "chars": ["\uE905"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/wither.png",
+      "ascent": 13,
+      "height": 52,
+      "chars": ["\uE906"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/enderdragon.png",
+      "ascent": 13,
+      "height": 42,
+      "chars": ["\uE907"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/voidworm.png",
+      "ascent": 18,
+      "height": 37,
+      "chars": ["\uE909"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/swampjaw.png",
+      "ascent": 13,
+      "height": 47,
+      "chars": ["\uE910"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/witherstorm.png",
+      "ascent": 18,
+      "height": 64,
+      "chars": ["\uE911"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/bellringer.png",
+      "ascent": 13,
+      "height": 41,
+      "chars": ["\uE912"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/nightlich.png",
+      "ascent": 18,
+      "height": 51,
+      "chars": ["\uE913"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/voidblossom.png",
+      "ascent": 18,
+      "height": 52,
+      "chars": ["\uE914"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/obsidilith.png",
+      "ascent": 18,
+      "height": 47,
+      "chars": ["\uE915"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/nethergauntlet.png",
+      "ascent": 18,
+      "height": 35,
+      "chars": ["\uE916"]
     }
   ]
 }
