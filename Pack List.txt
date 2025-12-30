@@ -1,97 +1,19 @@
 Vanilla Tweaks:
-	OldFireflies
-	NoPanoramaOverlay
-	NoJavaEditionTitle
+	HoeFix
+	DungeonsCreepers
+	PoppyToRose
+	HungerBarsGoldCarrot
 	SmallerUtilities
 	RedIronGolemFlowers
-	HungerBarsGoldCarrot
-	SmileyAxolotls
-	DungeonsCreepers
-	HoeFix
-	PoppyToRose
-	PalettelessDyes
-	CopperWeatheredBG
-	ClassicPanorama
-	ColoredWidgetsOrange
-	ColoredHotbarSelOrange
-	MoreCrosshairs-PlusDot
-	SmootherFont
-	DarkUI
-	WitherHearts
-	RainbowExperience
-	PingColorIndicator
-	LiteralGameruleNames
-	3DMace
-	3DChains
-	3DLadders
-	3DDoors
-	3DStonecutters
-	3DSunMoon
-	LowerShield
-	LowerFire
-	NoPumpkinOverlay
-	UniquePaintingItems
-	UniqueAxolotlBuckets
-	DifferentStems
-	Age25Kelp
-	DirectionalDispensersDroppers
-	StickyPistonSides
-	MusicDiscRedstonePreview
-	VisualComposterStages
-	NoteblockBanners
-	ArabicNumerals
-	VisualHoney
-	GroovyLevers
-	BrewingGuide
-	QuieterIronGolems
-	QuieterEndermen
-	QuieterPiglins
-	QuieterRain
-	QuieterNetherPortals
-	QuieterPistons
-	QuieterFire
-	QuieterDispensersDroppers
-	QuieterExplosions
-	QuieterMinecarts
-	VariatedPumpkins
-	VariatedVillagers
-	VariatedBricks
-	RandomMossRotation
-	VariatedEndStone
-	VariatedGravel
-	VariatedMycelium
-	VariatedUnpolishedStones
-	VariatedLogs
-	VariatedBookshelves
-	HDEndFlash
-	TwinklingStars
-	ShorterTallGrass
-	ShorterGrass
-	GoldenSavanna
-	SidewaysNuggets
-	BrownLeather
-	StemToLog
-	HDShieldBanners
-	AnimatedCampfireItem
-	SplashXpBottle
-	AccurateSpyglass
-	AccurateScaffolding
-	FencierFences
-	MossCarpetOverhang
-	CopperToolOxidization
-	ilmango-special
-	DungeonsAlexSteve
-	DungeonsMossySkeleton
-	ColdWoolyCow
-	ItemStitchingFix
+	FlintTippedArrows
 	JappaStatsIcons
 	JappaSpecIcons
 	RedstoneWireFix
 	DripleafFixBig
 	DripleafFixSmall
 	ConsistentDecorPot
-	ConsistentBucketFix
 	ConsistentTadpoleBucket
+	ConsistentBucketFix
 	CactusBottomFix
 	BrighterRibTrim
 	PixelConsistentGhast
@@ -103,11 +25,81 @@ Vanilla Tweaks:
 	PixelConsistentSonicBoom
 	PixelConsistentGuardianBeam
 	SoulSoilSoulCampfire
-	IronBarsFix
 	ItemHoldFix
+	SandstoneWallTopFix
+	DungeonsMossySkeleton
+	DungeonsAlexSteve
+	ColdWoolyCow
+	UniqueDyes
+	ilmango-special
 	BedIcons
 	TerracottatoHardenedClay
 	PotterySherdToShard
+	PrismarineBG
+	ClassicPanorama
+	ColoredWidgetsCyan
+	ColoredHotbarSelCyan
+	MoreCrosshairs-PlusDot
+	SmootherFont
+	RainbowExperience
+	PingColorIndicator
+	WitherHearts
+	3DChains
+	3DMace
+	3DLadders
+	3DDoors
+	3DStonecutters
+	3DSunMoon
+	LowerShield
+	LowerFire
+	NoPumpkinOverlay
+	UniquePaintingItems
+	BuddingAmethystBorders
+	SuspiciousSandGravelBorders
+	VisualInfestedStoneItems
+	VisualWaxedCopperItems
+	DifferentStems
+	Age25Kelp
+	ClearBannerPatterns
+	MusicDiscRedstonePreview
+	StickyPistonSides
+	DirectionalDispensersDroppers
+	GroovyLevers
+	NoteblockBanners
+	ArabicNumerals
+	VisualComposterStages
+	UniqueAxolotlBuckets
+	QuieterEndermen
+	QuieterPiglins
+	QuieterIronGolems
+	QuieterPistons
+	QuieterDispensersDroppers
+	QuieterFire
+	QuieterRain
+	QuieterNetherPortals
+	QuieterMinecarts
+	QuieterExplosions
+	VariatedPumpkins
+	VariatedVillagers
+	OffsetBushes
+	VariatedFireflyBushes
+	VariatedBookshelves
+	GoldenSavanna
+	HDEndFlash
+	ShorterTallGrass
+	ShorterGrass
+	SidewaysNuggets
+	HDShieldBanners
+	StemToLog
+	BrownLeather
+	AnimatedCampfireItem
+	SplashXpBottle
+	AccurateSpyglass
+	AccurateScaffolding
+	MossCarpetOverhang
+	FencierFences
+	GoldenCrown
+	CopperToolOxidization
 	SmootherWarpedPlanks
 	PixelConsistentSigns
 	ProperBreakParticles
@@ -125,24 +117,6 @@ Vanilla Tweaks:
 	MZEfe
 	MZAri
 	MZAlex
-	FlintTippedArrows
-	NicerFastLeaves
-	SandstoneWallTopFix
-	SuspiciousSandGravelBorders
-	BuddingAmethystBorders
-	VisualWaxedCopperItems
-	VisualInfestedStoneItems
-	HungerPreview
-	ClearBannerPatterns
-	QuieterGhasts
-	QuieterGuardians
-	QuieterPhantoms
-	QuieterSlimes
-	QuieterSculkShriekers
-	QuieterSculkSensors
-	GoldenCrown
-	PlainLeatherArmor
-	CompassLodestone
 
 	Combined packs:
 		MZAlex+MZAri+MZEfe+MZKai+MZMakena+MZNoor+MZSteve+MZSunny+MZZuri
@@ -150,7 +124,6 @@ Vanilla Tweaks:
 		BetterObservers+JappaObserver
 		DirectionalHoppers+ProperBreakParticles
 		PixelConsistentSigns+SmootherWarpedPlanks
-		ItemHoldFix+NoBowlParticles
 
 Enhanced Boss Bars
 Enchantment Icons

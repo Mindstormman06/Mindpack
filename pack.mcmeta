@@ -2,8 +2,8 @@
 	"pack": {
 		"pack_format": 69,
 		"min_format": 34,
-		"max_format": 69,
-		"supported_formats": { "min_inclusive": 34, "max_inclusive": 69 },
+		"max_format": 75,
+		"supported_formats": { "min_inclusive": 34, "max_inclusive": 75 },
 		"description": "§6Mind's Handpicked Packs!"
 	},
 	"overlays": {
@@ -115,6 +115,12 @@
 				"min_format": 69,
 				"max_format": 69,
 				"directory": "overlay_69"
+			},
+			{
+				"directory": "legacy_support",
+				"min_format": 8,
+				"max_format": 46,
+				"formats": [8,46]
 			}
 		]
 	}
